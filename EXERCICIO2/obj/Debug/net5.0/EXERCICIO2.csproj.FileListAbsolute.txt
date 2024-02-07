@@ -1,0 +1,16 @@
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.csproj.AssemblyReference.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.AssemblyInfoInputs.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.AssemblyInfo.cs
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\bin\Debug\net5.0\EXERCICIO2.exe
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\bin\Debug\net5.0\EXERCICIO2.deps.json
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\bin\Debug\net5.0\EXERCICIO2.runtimeconfig.json
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\bin\Debug\net5.0\EXERCICIO2.runtimeconfig.dev.json
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\bin\Debug\net5.0\EXERCICIO2.dll
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\bin\Debug\net5.0\EXERCICIO2.pdb
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.dll
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\refint\EXERCICIO2.dll
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.pdb
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\EXERCICIO2.genruntimeconfig.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO2\EXERCICIO2\obj\Debug\net5.0\ref\EXERCICIO2.dll
